@@ -23,8 +23,7 @@
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
-        rild \
-        Launcher3
+        rild
 
 PRODUCT_PROPERTY_OVERRIDES := \
         net.dns1=8.8.8.8 \
