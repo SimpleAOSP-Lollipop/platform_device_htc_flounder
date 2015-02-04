@@ -142,9 +142,6 @@ TARGET_RELEASETOOLS_EXTENSIONS := device/htc/flounder
 
 ART_USE_HSPACE_COMPACT=true
 
-# Flags
-BOARD_SUPPRESS_SECURE_ERASE := true
-
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
 
